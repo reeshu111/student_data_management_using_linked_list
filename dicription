@@ -1,0 +1,36 @@
+Student Record Management System Using C
+
+A Student Record Management System developed using the C programming language and Linked List data structure. This project is designed to efficiently store, manage, search, update, and delete student records.
+
+Features
+
+- Add new student records
+- Display all student records
+- Search for a student using their details
+- Update existing student information
+- Delete student records
+- Dynamic memory allocation using linked lists
+- Menu-driven and user-friendly interface
+
+Technologies Used
+
+- Programming Language: C
+- Data Structure: Singly Linked List
+- Concepts: Structures, Pointers, Dynamic Memory Allocation, Functions, and File Handling
+
+Objective
+
+The main objective of this project is to demonstrate the practical implementation of data structures and C programming concepts by creating a simple and efficient system for managing student information.
+
+Learning Outcomes
+
+Through this project, we gain practical knowledge of:
+
+- Structures in C
+- Pointers and dynamic memory allocation
+- Linked list operations
+- User-defined functions
+- Searching, insertion, deletion, and updating operations
+- Menu-driven programming
+
+This project is suitable for C programming, Data Structures, and Embedded Systems beginners to understand how linked lists can be used in a real-world application.

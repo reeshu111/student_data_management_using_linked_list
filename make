@@ -1,0 +1,23 @@
+target=main.o delete_record.o add_record.o save_record.o sort_record.o reverse_record.o deleteall_records.o load_record.o modi_record show_record
+cc=cc#cc
+exe:$(target)
+$(cc)$(target)-o.exe
+main.o:main.c
+$(cc)-c$^
+delete_record.o=delete_record.c
+$(cc)-c$^
+add_record.o=add_record.c
+$(cc)-c$^
+save_record.o=save_record.c
+$(cc)-c$^
+sort_record.o=sort_record.c
+$(cc)-c$^
+reverse_record.o=reverse_record.c
+$(cc)-c$^
+deleteall_record.o=deleteall_records.c
+$(cc)-c$^
+load_record-o=load_record.c
+$(cc)-c$^
+modi_record.o=modi_record.c
+$(cc)-c$^
+show_record.o=show_record.c
